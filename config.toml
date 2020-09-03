@@ -6,8 +6,8 @@ theme = "hugo-tranquilpeak-theme"
 paginate = 5   # Default number of elements per page in pagination.
 # canonifyurls = true   # https://gohugo.io/content-management/urls/#canonicalization
 
-# [permalinks]   # https://gohugo.io/content-management/urls/#permalinks
-#   post = "/:slug"
+[permalinks]   # https://gohugo.io/content-management/urls/#permalinks
+  post = "/:year/:month/:slug"
 
 [taxonomies]   # https://gohugo.io/content-management/taxonomies#configure-taxonomies
   tag = "tags"
