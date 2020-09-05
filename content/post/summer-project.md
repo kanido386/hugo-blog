@@ -1,12 +1,17 @@
 ---
 title: "暑期專題"
-date: 2020-09-03T18:52:58+08:00
+date: 2020-09-05T18:30:00+08:00
 categories:
 - 
 tags:
 - tag1
 - tag2
 slug: summer-project
+thumbnailImage: https://images.unsplash.com/photo-1530623288743-52a89e908add?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80
+thumbnailImagePosition: left
+coverImage: https://images.unsplash.com/photo-1530623288743-52a89e908add?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80
+coverCaption: ""
+coverSize: partial
 keywords:
 -
 #thumbnailImage: //example.com/image.jpg
@@ -19,14 +24,14 @@ keywords:
 ### 分析＆合成音色
 | 樂器 | 待分析的音檔 | 合成出來 | 演奏音階 |
 |:---:|:---:|:---:|:---:|
-| 小號 | <a href="https://drive.google.com/file/d/1c4B6Thu5E5i0g3ySRfn2M6gAq13UJnkj/view?usp=sharing" target="_blank">01</a> | <a href="https://drive.google.com/file/d/1eNaZb4SIhUeP1-kB8wsLx38ekrbS_3Ls/view?usp=sharing" target="_blank">02</a> | <a href="https://drive.google.com/file/d/18yV-S-CPvI_Q_9xOVmpmue9fLbQF1Eyx/view?usp=sharing" target="_blank">03</a> |
-| 雙簧管 | <a href="https://drive.google.com/file/d/1LsAohbiFXGa_KpjT2CsqmUGW1FZlz8t6/view?usp=sharing" target="_blank">04</a> | <a href="https://drive.google.com/file/d/1xjYuSMxfD97c0Wv5poHzIAlHz1N3LLd6/view?usp=sharing" target="_blank">05</a> | <a href="https://drive.google.com/file/d/1631sDcFSKs5NWkjumGGzHcNMIUjY8XoM/view?usp=sharing" target="_blank">06</a> |
-| 管風琴  | <a href="https://drive.google.com/file/d/1I6LY-rCmSeiFL3lhrM8EwpxekmStVafd/view?usp=sharing" target="_blank">07</a> | <a href="https://drive.google.com/file/d/1ZNPWq6eJVD4L9owCd_PgC0s9_J7I5hYr/view?usp=sharing" target="_blank">08</a> | <a href="https://drive.google.com/file/d/1cDqbo_5fGCAQuSN2N5FRYS0N068QSJ1m/view?usp=sharing" target="_blank">09</a> |
+| 小號 | <a href="https://youtu.be/VWO0FyNmOBw?t=1" target="_blank">01</a> | <a href="https://youtu.be/VWO0FyNmOBw?t=4" target="_blank">02</a> | <a href="https://youtu.be/VWO0FyNmOBw?t=7" target="_blank">03</a> |
+| 雙簧管 | <a href="https://youtu.be/VWO0FyNmOBw?t=12" target="_blank">04</a> | <a href="https://youtu.be/VWO0FyNmOBw?t=15" target="_blank">05</a> | <a href="https://youtu.be/VWO0FyNmOBw?t=18" target="_blank">06</a> |
+| 管風琴  | <a href="https://youtu.be/VWO0FyNmOBw?t=24" target="_blank">07</a> | <a href="https://youtu.be/VWO0FyNmOBw?t=27" target="_blank">08</a> | <a href="https://youtu.be/VWO0FyNmOBw?t=30" target="_blank">09</a> |
 ### 改變音色
 | 音樂 | 原音檔 | 小號 | 雙簧管 | 管風琴 |
 |:---:|:---:|:---:|:---:|:---:|
-| 生命之名 | <a href="https://drive.google.com/file/d/1OcF1t6QucHgnOVMcwNAnJmfuJRotJgZT/view?usp=sharing" target="_blank">10</a> | <a href="https://drive.google.com/file/d/1TKSwM6X4pYAfhoFKx3hysCSW33YeBCLI/view?usp=sharing" target="_blank">11</a> | <a href="https://drive.google.com/file/d/1QPD3pww866FZzO1y-eylMcWguLl1LS33/view?usp=sharing" target="_blank">12</a> |  |
-| New Thang | <a href="https://drive.google.com/file/d/1VJSWuA2n6GoflmhA9hkpJtqQM5qP-AEh/view?usp=sharing" target="_blank">13</a> |  |  | <a href="https://drive.google.com/file/d/1OBh5F7fr53UW9dyRA4UNAgkcpkHEJVY4/view?usp=sharing" target="_blank">14</a> |
+| 生命之名 | <a href="https://youtu.be/VWO0FyNmOBw?t=36" target="_blank">10</a> | <a href="https://youtu.be/VWO0FyNmOBw?t=46" target="_blank">11</a> | <a href="https://youtu.be/VWO0FyNmOBw?t=54" target="_blank">12</a> |  |
+| New Thang | <a href="https://youtu.be/VWO0FyNmOBw?t=64" target="_blank">13</a> |  |  | <a href="https://youtu.be/VWO0FyNmOBw?t=75" target="_blank">14</a> |
 
 # 預備知識
 ### 音訊預處理
@@ -48,8 +53,8 @@ keywords:
 
 <span style="color:blue;">取樣＆量化</span><br>
 <div style="padding:11px;">
-  <img src="https://ftp.bmp.ovh/imgs/2020/09/22d22a83403f9d39.png" style="width:550px; height:200px;" />
-  <img src="https://ftp.bmp.ovh/imgs/2020/09/2c03857179f3c285.png" style="width:550px; height:200px;" />
+  <img src="https://ftp.bmp.ovh/imgs/2020/09/22d22a83403f9d39.png" style="width:43vw;" />
+  <img src="https://ftp.bmp.ovh/imgs/2020/09/2c03857179f3c285.png" style="width:43vw;" />
 </div>
 
 - **<span style="color:black;">取樣 (sampling)</span>**：透過<span style="color:red;">取樣頻率</span>，也就是一秒鐘要取多少個取樣點，將<span style="color:red;">時間軸</span>上的資料離散化，得到一串取樣點（如上圖）
@@ -64,7 +69,7 @@ keywords:
 <br>
 <span style="color:blue;">切取音框</span><br>
 <div style="padding:22px;">
-  <img src="https://ftp.bmp.ovh/imgs/2020/09/f6576ad5edcadf43.png" style="width:550px; height:200px;" />
+  <img src="https://ftp.bmp.ovh/imgs/2020/09/f6576ad5edcadf43.png" style="width:43vw;" />
 </div>
 在分析一段音訊的時候，我們通常是以<span style="color:red;">短時距分析</span>為主，<br>
 因為聲音訊號在短時間之內是<span style="color:red;">相對穩定</span>的！<br>
@@ -76,7 +81,7 @@ keywords:
 <br>
 帶大家認識一下<span style="color:blue;">切取音框的重要參數</span>。<br>
 <div style="padding:23px;">
-  <img src="https://ftp.bmp.ovh/imgs/2020/09/ce76456e87ee97c2.png" style="width:550px; height:200px;" />
+  <img src="https://ftp.bmp.ovh/imgs/2020/09/ce76456e87ee97c2.png" style="width:43vw;" />
 </div>
 
 - **<span style="color:black;">音框大小 (frame size)</span>**：每一個音框內所含有的取樣點個數
@@ -87,7 +92,7 @@ keywords:
 
 <span style="color:blue;">套上窗函數</span><br>
 <div style="padding:32px;">
-  <img src="https://ftp.bmp.ovh/imgs/2020/09/625f058dba3db937.png" style="width:600px; height:150px;" />
+  <img src="https://ftp.bmp.ovh/imgs/2020/09/625f058dba3db937.png" style="width:52vw;" />
 </div>
 原本完整的聲音波形，<span style="color:red;">被音框硬生生地截斷</span>，頻譜將會產生誤差，該怎麼辦呢？<br>
 我們只要透過乘上一個<span style="color:red;">中央高、兩側低的窗函數 (window function)</span>，<br>
@@ -97,7 +102,7 @@ keywords:
 ### 音色
 <span style="color:blue;">聲音三要素</span><br>
 <div style="padding:5px;">
-  <img src="https://ftp.bmp.ovh/imgs/2020/09/ede9088994b2a6b4.png" style="width:600px; height:150px;" />
+  <img src="https://ftp.bmp.ovh/imgs/2020/09/ede9088994b2a6b4.png" style="width:52vw;" />
 </div>
 待會只會介紹音色。<br>
 <br>
@@ -115,7 +120,7 @@ keywords:
 
 <span style="color:blue;">ADSR Envelope</span><br>
 <div style="padding:7px;">
-  <img src="https://ftp.bmp.ovh/imgs/2020/09/d19848cbba1eb5ba.png" style="width:500px; height:300px;" />
+  <img src="https://ftp.bmp.ovh/imgs/2020/09/d19848cbba1eb5ba.png" style="width:50vw;" />
 </div>
 它是什麼呢？<br>
 它是描述 Attack、Decay、Sustain、Release 四階段的一個包絡！<br>
@@ -146,7 +151,7 @@ keywords:
 
 <span style="color:blue;">波形何以如此多元？</span><br>
 <div style="padding:6px;">
-  <img src="https://ftp.bmp.ovh/imgs/2020/09/f615f911b624c2a1.png" style="width:500px; height:250px;" />
+  <img src="https://ftp.bmp.ovh/imgs/2020/09/f615f911b624c2a1.png" style="width:39vw;" />
 </div>
 不同樂器，組成「一個音」的泛音列佔比都不太一樣。<br>
 那剛剛提過，泛音列上的每個音都是純音，可以分別用正弦波來表示，<br>
@@ -156,12 +161,12 @@ keywords:
 
 <span style="color:blue;">再用聽的和看的來感受一次吧！</span><br>
 <div style="padding:3px;">
-  <img src="https://ftp.bmp.ovh/imgs/2020/09/19b7c6548bc8fcfd.png" style="width:700px; height:250px;" />
+  <img src="https://ftp.bmp.ovh/imgs/2020/09/19b7c6548bc8fcfd.png" style="width:55vw;" />
 </div>
 以基頻為 220 赫茲的音來說明好了：<br>
-先給大家聽 <a href="https://drive.google.com/file/d/1682sa4_ojGq4fpZ0Q_7bfccpb1Fwc9Ew/view?usp=sharing" target="_blank">220 赫茲的純音</a>。<br>
-接著是 <a href="https://drive.google.com/file/d/1fRmcNPGGLnai-Nv9jP-VEZ28h1tZR4T1/view?usp=sharing" target="_blank">440 赫茲的純音</a>。<br>
-然後我們再用一比一的比例，來調配出<a href="https://drive.google.com/file/d/1b60lT7gG-n7q8H-TaZKQsmHrWl6rtiUy/view?usp=sharing" target="_blank">新的音色</a>。<br>
+先給大家聽 <a href="https://youtu.be/VWO0FyNmOBw?t=87" target="_blank">220 赫茲的純音</a>。<br>
+接著是 <a href="https://youtu.be/VWO0FyNmOBw?t=90" target="_blank">440 赫茲的純音</a>。<br>
+然後我們再用一比一的比例，來調配出<a href="https://youtu.be/VWO0FyNmOBw?t=93" target="_blank">新的音色</a>。<br>
 新音色聽起來就像是「一個音」，但實際上卻是由兩個純音組合而成的！
 
 <span style="color:blue;">泛音列與音色之間的關係</span>：<br>
@@ -172,7 +177,7 @@ keywords:
 # 所以，我是怎麼做出來的呀？
 ### 分析＆合成音色
 <div style="padding:30px;">
-  <img src="https://ftp.bmp.ovh/imgs/2020/09/ce7ecf082f96bce6.png" style="width:300px;" />
+  <img src="https://ftp.bmp.ovh/imgs/2020/09/ce7ecf082f96bce6.png" style="width:30vw;" />
 </div>
 
 1. 用 `scipy.io.wavfile.read` ，將待分析的音檔讀進來

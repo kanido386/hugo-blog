@@ -2,6 +2,7 @@
 languageCode = "zh-tw"
 title = "卡尼多"
 theme = "hugo-tranquilpeak-theme"
+googleAnalytics = "UA-177211232-1"
 
 paginate = 5   # Default number of elements per page in pagination.
 # canonifyurls = true   # https://gohugo.io/content-management/urls/#canonicalization
