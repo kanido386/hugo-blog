@@ -45,19 +45,19 @@ keywords:
 
 ## 一些照片
 <figure>
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7dc537d8-b0ba-4252-bf7e-51963853ed81/IMAG1522.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210113T044346Z&X-Amz-Expires=86400&X-Amz-Signature=f08f626474ad91091a617df68c75b76f47d7410634375d8b16b7b8990d7672fe&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22IMAG1522.jpg%22" style="width:30vw;" />
+  <img src="https://i.imgur.com/4S5wvKm.jpg" style="width:30vw;" />
   <figcaption>來玩機台囉！</figcaption>
 </figure>
 <figure>
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d1cf5f10-8b56-4bfe-86b9-fad53c4fb031/IMAG1523.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210113T044514Z&X-Amz-Expires=86400&X-Amz-Signature=b4409192f047fec7ed6f18db72a8a0df9f2950b0587cf7d8b9103e2763c34790&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22IMAG1523.jpg%22" style="width:30vw;" />
+  <img src="https://i.imgur.com/vXYNK6y.jpg" style="width:30vw;" />
   <figcaption>挖掉杯子底部，讓球通過</figcaption>
 </figure>
 <figure>
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7fb0edfb-022d-4706-9200-c8cd27e21216/IMAG1524.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210113T044604Z&X-Amz-Expires=86400&X-Amz-Signature=f97b0eb51121c8eb28cc4e17914484e270cf9c36dcb8bec74b2a6fb41e72235b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22IMAG1524.jpg%22" style="width:30vw;" />
+  <img src="https://i.imgur.com/qbR9bUC.jpg" style="width:30vw;" />
   <figcaption>機台是放斜的，這樣可以讓球滾下來</figcaption>
 </figure>
 <figure>
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/36caef15-113e-4e6b-8781-da21977c6996/IMAG1526.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210113T044631Z&X-Amz-Expires=86400&X-Amz-Signature=f14e86873067180feb7bddd104a15510dc4b7dcc82b8871e6c1a0bef9c965d57&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22IMAG1526.jpg%22" style="width:30vw;" />
+  <img src="https://i.imgur.com/jPt5Qn1.jpg" style="width:30vw;" />
   <figcaption>這就是最麻煩無趣的部分：接線（機台裡面超亂）</figcaption>
 </figure>
 
